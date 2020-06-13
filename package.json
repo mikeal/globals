@@ -13,5 +13,8 @@
   "dependencies": {
     "bent": "^7.3.2",
     "parse-link-header": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
   }
 }
