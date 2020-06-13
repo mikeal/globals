@@ -1,0 +1,17 @@
+{
+  "name": "update-actions",
+  "version": "0.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "dependencies": {
+    "bent": "^7.3.2",
+    "parse-link-header": "^1.0.1"
+  }
+}
