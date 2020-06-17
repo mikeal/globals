@@ -12,7 +12,8 @@
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
     "bent": "^7.3.2",
-    "parse-link-header": "^1.0.1"
+    "parse-link-header": "^1.0.1",
+    "text-diff": "^1.0.1"
   },
   "devDependencies": {
     "standard": "^14.3.4"
